@@ -1,0 +1,113 @@
+     /* Add css style of the browser here*/
+
+
+/*side nav bar*/
+
+/*side nav ended*/
+    h1{
+        display:inline;
+        font-size: 45pt;
+    }
+    .first{
+    	  color:gold;
+    }
+    .second{
+      	color:red;
+    }
+    .thrid{
+      	color:gold;
+    }
+    .fourth{
+      	color:blue;
+    }
+    .fifth{
+      	color:green;
+    }
+    .sixth{
+       color: red;
+    }
+    body{
+        background-color: #ffffff;
+        font-family:sans-serif;
+    }
+    
+/*dark mode begins*/
+    .dark-mode{
+        background-color: black;
+        color: grey;
+    }
+/*dark mode end*/
+
+/*head*/
+    header{
+        text-align: center;
+        color: grey;
+    }
+
+/*head ended*/
+
+/*icons section*/
+
+    #icons img {
+        height: 50px;
+        width: 50px;
+        margin-left: 7px;
+        margin-right: 7px;
+    }
+    #icons a {
+        text-decoration: none;
+    }
+    #icons img:hover {
+        opacity: 0.1;
+    }
+    #icons {
+        text-align: center;
+        background-color: none;
+    }
+    .section {
+        background-color: #fff;
+        padding: 15px;
+        background-color:white;
+        margin-bottom: 10px;
+        border-radius: 20px;
+    }
+
+    input{
+        margin-bottom: 10px;
+        font-size: 11pt;
+        padding: 15px 10px 10px;
+        border: 1px solid #cecece;
+        background-color: #efefef;
+        color: #787575;
+        border-radius: 30px;
+        width: 80%;
+        outline: none;
+    }
+    .btn{
+        margin-bottom: 3px;
+        font-size: 11pt;
+        padding: 15px 10px 10px;
+        border: 1px solid #cecece;
+        background-color: #efefef;
+        color: #787575;
+        border-radius: 30px;
+        width: 10%;
+        outline: none;
+    }
+    button { 
+        width: 10%;
+        background-color: white;
+        padding: 10px 10px 10px 10px;
+        border-radius: 20px;
+        border-bottom-color: black;
+        border-top-color: white;
+        border-right-color: black;
+        border-left-color: white;
+    }
+    .footer {
+        color: gold;
+        width: 80%;
+        font-size:12px;
+        display:inline;
+             
+    }
